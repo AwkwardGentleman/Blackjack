@@ -225,4 +225,5 @@ class Cards:
 
 black_jack = Cards()
 
-play_game()
+if __name__ == "__main__":
+    play_game()
